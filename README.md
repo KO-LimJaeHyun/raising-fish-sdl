@@ -35,6 +35,11 @@ SDL2 기반 물고기 키우기 게임 확장 과제입니다.
 
 ## 빌드 방법
 
-```bash
-gcc rasingFish_final.c -o game -lSDL2 -lSDL2_ttf -lm
-```
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/1bdd4831-217b-4e1b-bf24-3c96db0fce2b" />
+- 첫 실행화면
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/2e4c382a-cc6d-487a-95ee-41c36f307804" />
+- 플레이 중
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/85936a33-dd54-4958-9e50-3bf37afc801a" />
+- 죽기 직전
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/931f7fb6-4d25-4518-ac26-5d78a09b6400" />
+- 게임오버
