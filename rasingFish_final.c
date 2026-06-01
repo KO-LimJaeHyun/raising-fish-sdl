@@ -89,8 +89,8 @@ SDL_Texture*   fishTexture = NULL;  // fish.bmp 로 만든 텍스처
 // 오디오 관련
 SDL_AudioDeviceID audioDevice  = 0;
 SoundBuffer       waterSound   = { NULL, 0 };   // 물 주기 효과음
-SoundBuffer       deathSound   = { NULL, 0 };   // 물고기 죽음 효과음 (생성)
-SoundBuffer       levelUpSound = { NULL, 0 };   // 레벨업 효과음   (생성)
+SoundBuffer       deathSound   = { NULL, 0 };   // 물고기 죽음 효과음
+SoundBuffer       levelUpSound = { NULL, 0 };   // 레벨업 효과음
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 함수 프로토타입
