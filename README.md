@@ -1,4 +1,4 @@
-# Raising Fish SDL2 - 기말 과제
+# Raising Fish SDL2 - C프로그래밍 13주차 과제
 
 SDL2 기반 물고기 키우기 게임 확장 과제입니다.
 
